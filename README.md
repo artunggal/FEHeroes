@@ -1,6 +1,6 @@
 # FEHeroes
 
-This repository details a personal project I have been working on aiming to gain insight on character data from the popular gacha game *Fire Emblem: Heroes*.
+This repository details a personal project I have been working on aiming to gain insight on character data from the popular mobile gacha game *Fire Emblem: Heroes*.
 
 Current progress on this project as of now:
 
