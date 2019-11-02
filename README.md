@@ -11,6 +11,7 @@ Current progress on this project as of now:
 - [ ] Create model for predicting tier
     - Create csv file with names and tier list
     - Add feature for dancer
+- [ ] Create a classifier to classify different characters - can it classify movement type?
 
 Considerations for improvement of current project:
 
