@@ -14,3 +14,5 @@ Considerations for improvement of current project:
 
 - Change the format of the data into JSON so that stat variances and skills can be included
 - Improve visualizations
+
+Source data comes from the website www.gamepedia.com. Characters belong to Intelligent Systems.
