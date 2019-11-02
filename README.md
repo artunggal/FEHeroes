@@ -8,6 +8,7 @@ Current progress on this project as of now:
 - [x] Visualizations on character data
 - [x] Analysis on Legendary Heroes
 - [ ] Analysis on Power Creep
+- [ ] Create model for predicting tier (add feature for dancer)
 
 Considerations for improvement of current project:
 
