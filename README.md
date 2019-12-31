@@ -16,4 +16,4 @@ Considerations for improvement/additions to current project:
 - Analysis on Power Creep
 - Create a classifier to classify different characters - can it classify movement type?
 
-Source data comes from the websites www.gamepedia.com and www.gamepress.gg. Characters belong to Intelligent Systems.
+Source data comes from the websites https://feheroes.gamepedia.com/Main_Page and https://gamepress.gg/c/fire-emblem-heroes. Characters belong to Intelligent Systems.
