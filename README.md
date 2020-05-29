@@ -4,7 +4,7 @@ This repository details a personal project I have been working on aiming to gain
 
 Current progress on this project as of now:
 
-- [x] Working script to scrape data from gamepedia.com
+- [x] Working script to scrape data from gamepress.gg
 - [x] Visualizations on character data
 - [x] Analysis on Legendary Heroes
 - [x] Create model for predicting tier
