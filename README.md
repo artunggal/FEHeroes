@@ -16,4 +16,7 @@ Considerations for improvement/additions to current project:
 - Analysis on Power Creep
 - Create a classifier to classify different characters - can it classify movement type?
 
+I am also making Tableau Dashboards! I will periodically add more dashboards to my Tableau Public account. Here is the first one:  
+https://public.tableau.com/profile/andrew.tunggal#!/vizhome/FEHeroes/Dashboard1
+
 Source data comes from the websites https://feheroes.gamepedia.com/Main_Page and https://gamepress.gg/c/fire-emblem-heroes. Characters belong to Intelligent Systems.
